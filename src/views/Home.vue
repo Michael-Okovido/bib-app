@@ -76,8 +76,6 @@
       </div>
     </nav>
 
-    <router-view />
-
     <div class="row row-cols-1 row-cols-md-3" style="margin-top: 50px">
       <div class="col mb-4">
         <div class="card" style="width: 20rem">

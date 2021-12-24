@@ -74,7 +74,6 @@
       >
     </div>
   </nav>
-  <router-view />
 
   <div class="card" style="width: 18rem; margin: auto; margin-top: 50px">
     <div class="shadow-lg p-3 mb-5 bg-white rounded">
